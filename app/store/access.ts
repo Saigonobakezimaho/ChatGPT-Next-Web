@@ -16,13 +16,13 @@ const DEFAULT_OPENAI_URL =
 
 const DEFAULT_ACCESS_STATE = {
   accessCode: "",
-  useCustomConfig: false,
+  useCustomConfig: true,
 
   provider: ServiceProvider.OpenAI,
 
   // openai
   openaiUrl: DEFAULT_OPENAI_URL,
-  openaiApiKey: "",
+  openaiApiKey: "sk-T95n3qHZJSIBsBcij77DsJuC33vHT00NbwXSUbsHVM5Q1BqW",
 
   // azure
   azureUrl: "",
