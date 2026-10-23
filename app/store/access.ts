@@ -21,7 +21,7 @@ const DEFAULT_ACCESS_STATE = {
   provider: ServiceProvider.OpenAI,
 
   // openai
-  openaiUrl: DEFAULT_OPENAI_URL,
+  openaiUrl: "https://api.chatanywhere.tech",
   openaiApiKey: "sk-T95n3qHZJSIBsBcij77DsJuC33vHT00NbwXSUbsHVM5Q1BqW",
 
   // azure
